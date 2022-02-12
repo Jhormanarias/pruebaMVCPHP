@@ -12,5 +12,12 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus dicta obcaecati veritatis voluptatibus deserunt vel voluptatem debitis doloribus repellendus asperiores? Exercitationem illo corrupti obcaecati doloribus voluptatum repellendus atque dolor deserunt!
     Laboriosam iusto ex deleniti officiis? Cumque, eligendi! Facilis quidem dolor maxime impedit dolorum id autem voluptatum possimus veritatis, similique dicta sapiente beatae perspiciatis itaque odio error necessitatibus! Iusto, nesciunt debitis.
     Rerum, quisquam earum, mollitia libero delectus sequi neque perspiciatis tempore dolor vero suscipit molestiae corporis fuga amet numquam aliquid possimus dolore, illo et dignissimos. Eos maxime obcaecati accusamus cumque sed.</p>
+
+
+    <a href="?controlador=Inicio">Inicio</a>
+    <a href="?controlador=usuario">Usuario</a>
+    <a href="?controlador=Factura">Factura</a>
+
+
 </body>
 </html>

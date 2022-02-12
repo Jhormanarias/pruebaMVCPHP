@@ -4,7 +4,7 @@
 
 //Rutas
 
-if (!isset($_GET['controlador'])) 
+if (!isset($_GET['c'])) 
 {
     //Controlador por defecto
     require_once 'controlador/inicioControlador.php';
@@ -14,7 +14,7 @@ if (!isset($_GET['controlador']))
 else 
 {
     //Controlador al gusto
-    $controlador = $_GET['controlador'];
+    $controlador = $_GET['c'];
     var_dump($controlador);
     require_once 'controlador/'.$controlador.'Controlador.php';
     $controlador = ucwords($controlador).'controlador';

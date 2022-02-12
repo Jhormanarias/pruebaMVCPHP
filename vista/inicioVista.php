@@ -15,5 +15,10 @@
     Molestiae quis iure, earum iusto odit rerum dolorum, aperiam maxime accusamus in sint a aliquid nesciunt eum quidem animi iste maiores voluptas nisi laboriosam. Pariatur cum sunt deserunt repellat temporibus!
     Nihil magni quia, reprehenderit ullam aliquam ipsum numquam vero fuga impedit hic ducimus sunt illo nemo repellendus voluptatibus. Illum nostrum at id ab reprehenderit accusantium facilis dicta harum totam nesciunt!
     Corporis modi maiores voluptates, commodi numquam doloremque iusto, nulla nesciunt distinctio dolorem fugit voluptatum error consequatur, quibusdam molestias tempore minus eum rem accusamus laboriosam. Accusantium quod deserunt porro accusamus explicabo.</p>
+
+    <a href="">Inicio</a>
+    <a href="?c=usuario">Usuario</a>
+    <a href="?=Factura">Factura</a>
+
 </body>
 </html>
