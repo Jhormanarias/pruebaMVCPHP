@@ -14,9 +14,9 @@
     Rerum, quisquam earum, mollitia libero delectus sequi neque perspiciatis tempore dolor vero suscipit molestiae corporis fuga amet numquam aliquid possimus dolore, illo et dignissimos. Eos maxime obcaecati accusamus cumque sed.</p>
 
 
-    <a href="?controlador=Inicio">Inicio</a>
-    <a href="?controlador=usuario">Usuario</a>
-    <a href="?controlador=Factura">Factura</a>
+    <a href="?c=inicio">Inicio</a>
+    <a href="?c=usuario">Usuario</a>
+    <a href="?c=Factura">Factura</a>
 
 
 </body>

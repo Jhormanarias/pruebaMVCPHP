@@ -16,9 +16,9 @@
     Nihil magni quia, reprehenderit ullam aliquam ipsum numquam vero fuga impedit hic ducimus sunt illo nemo repellendus voluptatibus. Illum nostrum at id ab reprehenderit accusantium facilis dicta harum totam nesciunt!
     Corporis modi maiores voluptates, commodi numquam doloremque iusto, nulla nesciunt distinctio dolorem fugit voluptatum error consequatur, quibusdam molestias tempore minus eum rem accusamus laboriosam. Accusantium quod deserunt porro accusamus explicabo.</p>
 
-    <a href="">Inicio</a>
+    <a href="?c=inicio">Inicio</a>
     <a href="?c=usuario">Usuario</a>
-    <a href="?=Factura">Factura</a>
+    <a href="?c=Factura">Factura</a>
 
 </body>
 </html>

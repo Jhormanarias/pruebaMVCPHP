@@ -1,5 +1,4 @@
 <?php
-
 //Punto de entrada de la app :: Front Controller
 
 //Rutas
@@ -19,8 +18,9 @@ else
     require_once 'controlador/'.$controlador.'Controlador.php';
     $controlador = ucwords($controlador).'controlador';
     $controlador = new $controlador;
-
-    call_user_func(array($controlador,'inicio'));
+    //Accion
+    $accion = isset($_GET['a']) ? $_GET['a'] : "Inicio";
+    call_user_func(array($controlador, $accion));
 
     //var_dump($_GET['variable']);
 
