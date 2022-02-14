@@ -1,8 +1,6 @@
 <?php
 //Clase estatica que conecta la base de datos
 
-use JetBrains\PhpStorm\Internal\ReturnTypeContract;
-
 class BaseDatos{
 
     const host = 'localhost';
@@ -25,11 +23,10 @@ class BaseDatos{
         }
     }
 
-}
+};
 
-//Probar que conexión funcione
+//Probar que conexión funcione 
 // $test = new BaseDatos;
 // $test->conectar()
-
 
 ?>
