@@ -6,7 +6,7 @@ class BaseDatos{
     const host = 'localhost';
     const user = 'root';
     const password = '';
-    const bdatos = 'bd_tienda';
+    const bdatos = 'mitienda';
     //const conn;
 
     public static function conectar(){
@@ -18,7 +18,7 @@ class BaseDatos{
             return $conn;
             // echo "Conexion exitosa";
         } catch (PDOException $error) {
-            return "Hay un fallo en la conexion : ".$error->getMessage();
+            return "Hay un fallo en la conexion : ".$error->getCode(). '----'.$error->getMessage();
             
         }
     }
@@ -27,6 +27,6 @@ class BaseDatos{
 
 //Probar que conexión funcione 
 // $test = new BaseDatos;
-// $test->conectar()
+// $test->conectar();
 
 ?>

@@ -1,6 +1,7 @@
 <?php
 
 require_once 'config/config.php';
+require_once 'modelo/usuario.php';
 
 
 //Punto de entrada de la app :: Front Controller
