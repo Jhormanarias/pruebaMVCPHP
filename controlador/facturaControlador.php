@@ -14,6 +14,8 @@ class FacturaControlador{
         require_once 'vista/piePagina.php';
     }
 
+    
+
 }
 
 

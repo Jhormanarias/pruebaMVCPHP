@@ -14,7 +14,8 @@ class InicioControlador {
         require_once 'vista/inicioVista.php';
         require_once 'vista/piePagina.php';
     }
-}
 
+    
+}
 
 ?>
